@@ -102,20 +102,52 @@ app.listen(port, ()=>{
 
 
 
-const main = async ()=>{
-    // const task = await Tasks.findById('5d734e4e6d56dd3fdce4acec')
-    // await task.populate('owner').execPopulate()
-    // console.log(task)
+// const main = async ()=>{
+//     // const task = await Tasks.findById('5d734e4e6d56dd3fdce4acec')
+//     // await task.populate('owner').execPopulate()
+//     // console.log(task)
 
-    // const user = await User.findById('5d734e246d56dd3fdce4acea')
-    // await user.populate('tasks').execPopulate()
-    // console.log(user.tasks)
-}
+//     // const user = await User.findById('5d734e246d56dd3fdce4acea')
+//     // await user.populate('tasks').execPopulate()
+//     // console.log(user.tasks)
+// }
 
-main()
+// main()
 
 
 //command to start database
 // E:\database/mongodb/bin/mongod --dbpath=E:\database/mongodb-data
 // npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
