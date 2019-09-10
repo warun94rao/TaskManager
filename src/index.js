@@ -118,36 +118,3 @@ app.listen(port, ()=>{
 //command to start database
 // E:\database/mongodb/bin/mongod --dbpath=E:\database/mongodb-data
 // npm run dev
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
